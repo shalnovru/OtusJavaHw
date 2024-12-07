@@ -3,6 +3,7 @@ include("HW01-gradle")
 include("HW02-generics")
 include("HW03-annotations")
 
+
 pluginManagement {
     val jgitver: String by settings
     val dependencyManagement: String by settings
@@ -24,4 +25,4 @@ pluginManagement {
         id("com.diffplug.spotless") version spotless
     }
 }
-
+include("HW04-gc")
