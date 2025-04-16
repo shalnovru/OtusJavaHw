@@ -11,6 +11,7 @@ include("HW09-jdbc")
 include("HW10-jpql")
 include("HW11-cache")
 include("HW12-web-server")
+include("HW14-spring-jdbc")
 
 
 pluginManagement {
