@@ -14,6 +14,8 @@ include("HW12-web-server")
 include("HW13-di")
 include("HW14-spring-jdbc")
 include("HW15-executors")
+include("HW16-queues")
+include("HW17-gRPC")
 include("HW18-webflux")
 
 pluginManagement {
